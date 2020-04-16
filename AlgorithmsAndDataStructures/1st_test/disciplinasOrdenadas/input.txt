@@ -1,0 +1,8 @@
+222 Estatistica
+1 inferencia_estatistica 4
+7 calculo_1 4
+2 calculo_4 4
+3 probabilidade 4
+4 algebra 4
+6 calculo_2 4
+5 calculo_3 4
